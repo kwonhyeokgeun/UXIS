@@ -1,4 +1,5 @@
 이름, id, 방번호, teacher 또는 student를 선택
+![image](https://user-images.githubusercontent.com/49871871/117615253-6b6d2500-b1a4-11eb-91d9-6c913b006e0f.png)
 
 접속하면 teacher의 영상이 나온다.
 
