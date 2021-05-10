@@ -105,3 +105,10 @@ function leave_room(name, room){
     console.log(name +  "님이 " + room + "방에서 나갔습니다.")
     socket.emit('leave_room',room)
 }
+
+function enterkey() { 
+    if (window.event.keyCode == 13) {
+         // 엔터키가 눌렸을 때 
+         send_msg();
+    } 
+}
