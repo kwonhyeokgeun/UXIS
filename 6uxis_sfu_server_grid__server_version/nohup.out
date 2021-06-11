@@ -1,0 +1,847 @@
+Create HTTPS Server
+connection
+MediaStream {}
+MediaStream {}
+유저확인 [ { id: 'L6bcyKuNXlZEQ5PoAAAB', stream: MediaStream {} } ]
+connection
+MediaStream {}
+MediaStream {}
+유저확인 [ { id: 'WnENw8iF3-zwUi9DAAAD', stream: MediaStream {} } ]
+connection
+MediaStream {}
+MediaStream {}
+유저확인 [
+  { id: 'WnENw8iF3-zwUi9DAAAD', stream: MediaStream {} },
+  { id: 'k8l6RJWBQUvOYzHiAAAF', stream: MediaStream {} }
+]
+{
+  type: 'message',
+  message: '2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '김기한'
+}
+{
+  type: 'message',
+  message: '2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '김기한'
+}
+{
+  type: 'message',
+  message: '2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '김기한'
+}
+{
+  type: 'message',
+  message: '2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2402400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2402400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2402400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2402400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2402400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2402400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2402400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2402400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2402400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2402400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2402400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2402400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2402400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2402400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!240',
+  role: 'teacher',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '2400!!'
+}
+{
+  type: 'message',
+  message: '2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2402400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2402400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2402400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2402400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2402400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2402400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2402400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!240',
+  role: 'teacher',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '2400!!'
+}
+{
+  type: 'message',
+  message: '2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!240',
+  role: 'teacher',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '2400!!'
+}
+{
+  type: 'message',
+  message: '2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!240',
+  role: 'teacher',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '2400!!'
+}
+{
+  type: 'message',
+  message: '2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!240',
+  role: 'teacher',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '2400!!'
+}
+{
+  type: 'message',
+  message: '2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!240',
+  role: 'teacher',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '2400!!'
+}
+{
+  type: 'message',
+  message: '2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '김기한'
+}
+{
+  type: 'message',
+  message: '2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!240',
+  role: 'teacher',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '2400!!'
+}
+{
+  type: 'message',
+  message: '2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!240',
+  role: 'teacher',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '2400!!'
+}
+{
+  type: 'message',
+  message: '2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!240',
+  role: 'teacher',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '2400!!'
+}
+{
+  type: 'message',
+  message: '2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!240',
+  role: 'teacher',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '2400!!'
+}
+{
+  type: 'message',
+  message: '2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!240',
+  role: 'teacher',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '2400!!'
+}
+{
+  type: 'message',
+  message: '2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!240',
+  role: 'teacher',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '2400!!'
+}
+{
+  type: 'message',
+  message: '2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!240',
+  role: 'teacher',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '2400!!'
+}
+{
+  type: 'message',
+  message: '2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!240',
+  role: 'teacher',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '2400!!'
+}
+{
+  type: 'message',
+  message: '2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!240',
+  role: 'teacher',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '2400!!'
+}
+{
+  type: 'message',
+  message: '2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!240',
+  role: 'teacher',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '2400!!'
+}
+{
+  type: 'message',
+  message: '2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!240',
+  role: 'teacher',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '2400!!'
+}
+{
+  type: 'message',
+  message: '2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!240',
+  role: 'teacher',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '2400!!'
+}
+{
+  type: 'message',
+  message: '2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!240',
+  role: 'teacher',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '2400!!'
+}
+{
+  type: 'message',
+  message: '2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!240',
+  role: 'teacher',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '2400!!'
+}
+{
+  type: 'message',
+  message: '2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!240',
+  role: 'teacher',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '2400!!'
+}
+{
+  type: 'message',
+  message: '2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!2400!240',
+  role: 'teacher',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '2400!!'
+}
+{
+  type: 'message',
+  message: '에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '김기한'
+}
+{
+  type: 'message',
+  message: '에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '김기한'
+}
+{
+  type: 'message',
+  message: '에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '김기한'
+}
+{
+  type: 'message',
+  message: '에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '김기한'
+}
+{
+  type: 'message',
+  message: '에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '김기한'
+}
+{
+  type: 'message',
+  message: '에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '김기한'
+}
+{
+  type: 'message',
+  message: '에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '김기한'
+}
+{
+  type: 'message',
+  message: '에이맨이 쓰러지지 않아!',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '김기한'
+}
+{
+  type: 'message',
+  message: '에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!에이맨이 쓰러지지 않아!',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '김기한'
+}
+{
+  type: 'message',
+  message: '2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!',
+  role: 'teacher',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '2400!!'
+}
+{
+  type: 'message',
+  message: '2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!',
+  role: 'teacher',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '2400!!'
+}
+{
+  type: 'message',
+  message: '2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!',
+  role: 'teacher',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '2400!!'
+}
+{
+  type: 'message',
+  message: '2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!',
+  role: 'teacher',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '2400!!'
+}
+{
+  type: 'message',
+  message: '2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!2400!!!!!!!!',
+  role: 'teacher',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '2400!!'
+}
+connection
+MediaStream {}
+MediaStream {}
+유저확인 [
+  { id: 'k8l6RJWBQUvOYzHiAAAF', stream: MediaStream {} },
+  { id: 'ts_20wU-uXJzwPEmAAAH', stream: MediaStream {} }
+]
+{
+  type: 'message',
+  message: '트위치',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '김기한'
+}
+connection
+connection
+MediaStream {}
+MediaStream {}
+유저확인 [
+  { id: 'k8l6RJWBQUvOYzHiAAAF', stream: MediaStream {} },
+  { id: 'ts_20wU-uXJzwPEmAAAH', stream: MediaStream {} },
+  { id: '21ii2g8dy5NxGte5AAAL', stream: MediaStream {} }
+]
+connection
+connection
+MediaStream {}
+MediaStream {}
+유저확인 [
+  { id: 'k8l6RJWBQUvOYzHiAAAF', stream: MediaStream {} },
+  { id: 'ts_20wU-uXJzwPEmAAAH', stream: MediaStream {} },
+  { id: '21ii2g8dy5NxGte5AAAL', stream: MediaStream {} },
+  { id: '5k7-7n0NcOvjMa0rAAAN', stream: MediaStream {} }
+]
+MediaStream {}
+MediaStream {}
+유저확인 [
+  { id: 'k8l6RJWBQUvOYzHiAAAF', stream: MediaStream {} },
+  { id: 'ts_20wU-uXJzwPEmAAAH', stream: MediaStream {} },
+  { id: '21ii2g8dy5NxGte5AAAL', stream: MediaStream {} },
+  { id: '5k7-7n0NcOvjMa0rAAAN', stream: MediaStream {} },
+  { id: 'fABZ-m5gfQFNfxD8AAAP', stream: MediaStream {} }
+]
+connection
+MediaStream {}
+MediaStream {}
+유저확인 [
+  { id: 'k8l6RJWBQUvOYzHiAAAF', stream: MediaStream {} },
+  { id: 'ts_20wU-uXJzwPEmAAAH', stream: MediaStream {} },
+  { id: '21ii2g8dy5NxGte5AAAL', stream: MediaStream {} },
+  { id: 'fABZ-m5gfQFNfxD8AAAP', stream: MediaStream {} },
+  { id: 'EmusQUR6aX60KHQyAAAR', stream: MediaStream {} }
+]
+connection
+MediaStream {}
+MediaStream {}
+유저확인 [
+  { id: 'k8l6RJWBQUvOYzHiAAAF', stream: MediaStream {} },
+  { id: 'ts_20wU-uXJzwPEmAAAH', stream: MediaStream {} },
+  { id: '21ii2g8dy5NxGte5AAAL', stream: MediaStream {} },
+  { id: 'fABZ-m5gfQFNfxD8AAAP', stream: MediaStream {} },
+  { id: 'EmusQUR6aX60KHQyAAAR', stream: MediaStream {} },
+  { id: '1AjjvpXnfCmyyCycAAAT', stream: MediaStream {} }
+]
+connection
+MediaStream {}
+MediaStream {}
+유저확인 [
+  { id: 'k8l6RJWBQUvOYzHiAAAF', stream: MediaStream {} },
+  { id: 'ts_20wU-uXJzwPEmAAAH', stream: MediaStream {} },
+  { id: '21ii2g8dy5NxGte5AAAL', stream: MediaStream {} },
+  { id: 'fABZ-m5gfQFNfxD8AAAP', stream: MediaStream {} },
+  { id: 'EmusQUR6aX60KHQyAAAR', stream: MediaStream {} },
+  { id: '1AjjvpXnfCmyyCycAAAT', stream: MediaStream {} },
+  { id: 'P8S2Mx35aeyszkc7AAAV', stream: MediaStream {} }
+]
+{
+  type: 'message',
+  message: '폭 ㅡ발',
+  role: 'teacher',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: 'afdfd'
+}
+{
+  type: 'message',
+  message: '터졌노',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '김기한'
+}
+{
+  type: 'message',
+  message: '개발자 나온나ㅣ',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '김기한'
+}
+{
+  type: 'message',
+  message: '폭 발',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: 'qwd'
+}
+connection
+MediaStream {}
+MediaStream {}
+유저확인 [
+  { id: 'k8l6RJWBQUvOYzHiAAAF', stream: MediaStream {} },
+  { id: 'mw3BbW1EGnhFJqzIAAAX', stream: MediaStream {} }
+]
+{
+  type: 'message',
+  message: '폭 ㅡ발',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: 'ㅂㄱㅂㄱ'
+}
+{
+  type: 'message',
+  message: 'ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: 'ㅂㄱㅂㄱ'
+}
+{
+  type: 'message',
+  message: '기모찌 하구만',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: 'ㅂㄱㅂㄱ'
+}
+{
+  type: 'message',
+  message: '햇반가져와',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '김기한'
+}
+{
+  type: 'message',
+  message: '밥비벼',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: 'ㅂㄱㅂㄱ'
+}
+{
+  type: 'message',
+  message: '요리조리쿡님',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: 'ㅂㄱㅂㄱ'
+}
+{
+  type: 'message',
+  message: '하이',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '김기한'
+}
+{
+  type: 'message',
+  message: '방가방가',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '김기한'
+}
+{
+  type: 'message',
+  message: '집에서 혼밥할때',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: 'ㅂㄱㅂㄱ'
+}
+{
+  type: 'message',
+  message: 'ㅈㄴ 꿀팁 하나만요',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: 'ㅂㄱㅂㄱ'
+}
+{
+  type: 'message',
+  message: 'ㅇㅈ?',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: 'ㅂㄱㅂㄱ'
+}
+{
+  type: 'message',
+  message: '랄튜브 틀고 드세영!',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '김기한'
+}
+{
+  type: 'message',
+  message: 'ㅋㅋㅋㅋㅋㅋㅋㅋㅋ',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: 'ㅂㄱㅂㄱ'
+}
+{
+  type: 'message',
+  message: '추천영상',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '김기한'
+}
+{
+  type: 'message',
+  message: 'ㅇㅈ',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: 'ㅂㄱㅂㄱ'
+}
+{
+  type: 'message',
+  message: '기울어진 마라탕',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '김기한'
+}
+{
+  type: 'message',
+  message: '못xx년이 x배를 펴?',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '김기한'
+}
+{
+  type: 'message',
+  message: 'ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: 'ㅂㄱㅂㄱ'
+}
+{
+  type: 'message',
+  message: '근데',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: 'ㅂㄱㅂㄱ'
+}
+{
+  type: 'message',
+  message: '집에',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: 'ㅂㄱㅂㄱ'
+}
+{
+  type: 'message',
+  message: '맥주가시발',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: 'ㅂㄱㅂㄱ'
+}
+{
+  type: 'message',
+  message: '없음',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: 'ㅂㄱㅂㄱ'
+}
+{
+  type: 'message',
+  message: 'ㅋㅋ',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: 'ㅂㄱㅂㄱ'
+}
+{
+  type: 'message',
+  message: 'ㅋㅋ',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '김기한'
+}
+{
+  type: 'message',
+  message: 'ㄹㅇ ㅋㅋ',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '김기한'
+}
+{
+  type: 'message',
+  message: 'ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: 'ㅂㄱㅂㄱ'
+}
+{
+  type: 'message',
+  message: '맥주 개꼴리네',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: 'ㅂㄱㅂㄱ'
+}
+{
+  type: 'message',
+  message: '자',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '김기한'
+}
+{
+  type: 'message',
+  message: '드가자',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '김기한'
+}
+{
+  type: 'message',
+  message: '~~~',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '김기한'
+}
+connection
+MediaStream {}
+MediaStream {}
+유저확인 [ { id: 'OyX10owNAj_WsM8SAAAZ', stream: MediaStream {} } ]
+connection
+MediaStream {}
+MediaStream {}
+유저확인 [ { id: 'a3iNiIrtc-SjCiIfAAAb', stream: MediaStream {} } ]
+{
+  type: 'message',
+  message: '기한',
+  role: 'teacher',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: '기한'
+}
+connection
+MediaStream {}
+MediaStream {}
+유저확인 [
+  { id: 'a3iNiIrtc-SjCiIfAAAb', stream: MediaStream {} },
+  { id: 'SrcJ_FnO1HuLi9isAAAd', stream: MediaStream {} }
+]
+{
+  type: 'message',
+  message: '기한',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: 'wef'
+}
+{
+  type: 'message',
+  message: '앙앙앙 히릿',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: 'wef'
+}
+{
+  type: 'message',
+  message: 'ㅠㅁㄴㄹㄴㄹㅇㅁㄴㅇㄻㄴㄹ',
+  role: '',
+  chat_img: 'img/list_img01.jpg',
+  roomId: '123',
+  userName: 'wef'
+}
+connection
+MediaStream {}
+MediaStream {}
+유저확인 [ { id: 'eF6DMJ9ViBr11eT9AAAn', stream: MediaStream {} } ]
+connection
+MediaStream {}
+MediaStream {}
+유저확인 [
+  { id: 'eF6DMJ9ViBr11eT9AAAn', stream: MediaStream {} },
+  { id: '5EdtvqsbG3KHKN8yAAAp', stream: MediaStream {} }
+]
+Create HTTPS Server
+connection
+MediaStream {}
+MediaStream {}
+유저확인 [ { id: 'YrBpeNK6sIc85cEvAAAB', stream: MediaStream {} } ]
+connection
+MediaStream {}
+MediaStream {}
+유저확인 [
+  { id: 'YrBpeNK6sIc85cEvAAAB', stream: MediaStream {} },
+  { id: 'luCB09DsAT_paIe3AAAD', stream: MediaStream {} }
+]
+connection
+MediaStream {}
+MediaStream {}
+유저확인 [
+  { id: 'YrBpeNK6sIc85cEvAAAB', stream: MediaStream {} },
+  { id: 'luCB09DsAT_paIe3AAAD', stream: MediaStream {} },
+  { id: 'vOzL3RGUgcbFzsinAAAF', stream: MediaStream {} }
+]
+Create HTTPS Server
+connection
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+connection
+MediaStream {}
+MediaStream {}
+유저확인 [ { id: 'NNDxEUJHp2PCxui7AAAD', stream: MediaStream {} } ]
+connection
+MediaStream {}
+MediaStream {}
+유저확인 [
+  { id: 'NNDxEUJHp2PCxui7AAAD', stream: MediaStream {} },
+  { id: 'oBOF4_xJrtVSXCZcAAAF', stream: MediaStream {} }
+]
+connection
+connection
+MediaStream {}
+MediaStream {}
+유저확인 [ { id: 'nhgeBwhrdG-cQ3ZvAAAM', stream: MediaStream {} } ]

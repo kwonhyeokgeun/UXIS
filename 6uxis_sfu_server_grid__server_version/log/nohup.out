@@ -1,0 +1,89 @@
+Create HTTPS Server
+connection
+connection
+connection
+connection
+connection
+MediaStream {}
+MediaStream {}
+유저확인 [ { id: 'lhS4lPwOGyqVMpLUAAAJ', stream: MediaStream {} } ]
+connection
+MediaStream {}
+MediaStream {}
+유저확인 [
+  { id: 'lhS4lPwOGyqVMpLUAAAJ', stream: MediaStream {} },
+  { id: 'iPu5plWhmxp8hsiaAAAL', stream: MediaStream {} }
+]
+connection
+MediaStream {}
+MediaStream {}
+유저확인 [
+  { id: 'lhS4lPwOGyqVMpLUAAAJ', stream: MediaStream {} },
+  { id: 'iPu5plWhmxp8hsiaAAAL', stream: MediaStream {} },
+  { id: 'U0G8C_rqAwul-QZnAAAN', stream: MediaStream {} }
+]
+여긴가?Error: Failed to set ICE candidate.
+여긴가?Error: Failed to set ICE candidate.
+여긴가?Error: Failed to set ICE candidate.
+여긴가?Error: Failed to set ICE candidate.
+여긴가?Error: Failed to set ICE candidate.
+여긴가?Error: Failed to set ICE candidate.
+여긴가?Error: Failed to set ICE candidate.
+여긴가?Error: Failed to set ICE candidate.
+여긴가?Error: Failed to set ICE candidate.
+여긴가?Error: Failed to set ICE candidate.
+여긴가?Error: Failed to set ICE candidate.
+여긴가?Error: Failed to set ICE candidate.
+여긴가?Error: Failed to set ICE candidate.
+여긴가?Error: Failed to set ICE candidate.
+여긴가?Error: Failed to set ICE candidate.
+여긴가?Error: Failed to set ICE candidate.
+여긴가?Error: Failed to set ICE candidate.
+여긴가?Error: Failed to set ICE candidate.
+여긴가?Error: Failed to set ICE candidate.
+여긴가?Error: Failed to set ICE candidate.
+connection
+MediaStream {}
+MediaStream {}
+유저확인 [
+  { id: 'iPu5plWhmxp8hsiaAAAL', stream: MediaStream {} },
+  { id: 'ldvortR5oZ8BjzrTAAAP', stream: MediaStream {} }
+]
+connection
+connection
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/SFU_Server_#/mediaServer.js:103:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/SFU_Server_#/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/SFU_Server_#/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+MediaStream {}
+MediaStream {}
+유저확인 [
+  { id: 'iPu5plWhmxp8hsiaAAAL', stream: MediaStream {} },
+  { id: 'ldvortR5oZ8BjzrTAAAP', stream: MediaStream {} },
+  { id: 'DXkY5QWMJedlZ2roAAAT', stream: MediaStream {} }
+]
+connection
+MediaStream {}
+MediaStream {}
+유저확인 [
+  { id: 'ldvortR5oZ8BjzrTAAAP', stream: MediaStream {} },
+  { id: 'Tg3eRrD0KYtE3pVFAAAV', stream: MediaStream {} }
+]
+connection
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/SFU_Server_#/mediaServer.js:103:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/SFU_Server_#/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/SFU_Server_#/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+MediaStream {}
+MediaStream {}
+유저확인 [
+  { id: 'ldvortR5oZ8BjzrTAAAP', stream: MediaStream {} },
+  { id: 'kVy5TznxlzL-tmboAAAX', stream: MediaStream {} }
+]
+connection
+connection
+connection

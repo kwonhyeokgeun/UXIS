@@ -1,0 +1,237 @@
+Create HTTPS Server
+connection
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+connection
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+connection
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+connection
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: Cannot read property 'addIceCandidate' of undefined
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+connection
+connection
+connection
+MediaStream {}
+MediaStream {}
+유저확인 [ { id: '0Se6HPBAK09Q9OmwAAAL', stream: MediaStream {} } ]
+MediaStream {}
+MediaStream {}
+유저확인 [
+  { id: '0Se6HPBAK09Q9OmwAAAL', stream: MediaStream {} },
+  { id: 'S28RTUivIDtN5bvNAAAN', stream: MediaStream {} }
+]
+connection
+connection
+MediaStream {}
+MediaStream {}
+유저확인 [ { id: 'IW23RlMCSkb88b9tAAAR', stream: MediaStream {} } ]
+/home/webrtc/khg/sfu_server_grid/node_modules/wrtc/lib/peerconnection.js:214
+  var promise = this._pc.addIceCandidate(candidate);
+                         ^
+
+TypeError: Expect line: candidate:<candidate-str>
+    at RTCPeerConnection.addIceCandidate (/home/webrtc/khg/sfu_server_grid/node_modules/wrtc/lib/peerconnection.js:214:26)
+    at Socket.<anonymous> (/home/webrtc/khg/sfu_server_grid/mediaServer.js:104:16)
+    at Socket.emit (node:events:365:28)
+    at Socket.emitUntyped (/home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/webrtc/khg/sfu_server_grid/node_modules/socket.io/dist/socket.js:428:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)

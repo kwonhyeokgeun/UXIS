@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" content="text/html" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="Generator" content="EditPlus®" />
+        <meta name="Author" content="" />
+        <meta name="Keywords" content="" />
+        <meta name="Description" content="" />
+        <title>방과후온라인강의수업</title>
+        <!--css-->
+        <link type="text/css" rel="stylesheet" href="css/reset.css" />
+        <link type="text/css" rel="stylesheet" href="css/font.css" />
+        <link type="text/css" rel="stylesheet" href="css/layout.css" />
+        <link type="text/css" rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css" />
+        <!--js-->
+        <script src="https://cdn.socket.io/4.0.1/socket.io.min.js" integrity="sha384-LzhRnpGmQP+lOvWruF/lgkcqD+WDVt9fU3H4BWmwP5u5LTmkUGafMcpZKNObVMLU" crossorigin="anonymous"></script>
+        <script src="js/index.js"></script>
+        <script src="js/jquery-3.4.1.min.js"></script>
+        <script src="js/jquery.mCustomScrollbar.js"></script>
+        <script src="js/layout.js"></script>
+    </head>
+    <body>
+        <div class="wrap">
+            <div class="main_screen">
+                <div class="video">
+                    
+                </div>
+                <div class="screen_wrap">
+                    <h1 class="title">함께하는 방과후 English Class 1</h1>
+                    <div class="partc_list">
+                        <div class="list_hide">
+                            <div></div>
+                        </div>
+                        <div class="list_show">
+                            <div></div>
+                        </div>
+                        <div class="partc_list_wrap">
+                            <h1>참여자 리스트</h1>
+                            <div class="partc_inner">
+                                <div class="mCustomScrollbar">
+                                    <ul class="students">
+                                        
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <!--partc_list_wrap::E-->
+                    </div>
+                    <!--partc_list::E-->
+
+                    <div class="chat">
+                        <div class="chat_down">
+                            <div>
+                                <span>대화창 내리기</span>
+                            </div>
+                        </div>
+                        <div class="chat_up">
+                            <div>
+                                <span>대화창 보이기</span>
+                            </div>
+                        </div>
+                        <div class="chat_wrap">
+                            <div class="chat_view mCustomScrollbar" data-mcs-theme="dark">
+                                <div class="chat_inner" id="chat_inners">
+                                    <!--
+                                    <dl>
+                                        <dt>
+                                            <div class="chat_img"><img src="img/list_img01.jpg" /></div>
+                                            <span>유나</span>
+                                        </dt>
+                                        <dd>선생님~~ 방금 말씀하시거 나중에 혹시 재방도 가능하실까요??<br />오늘 수업 너무 좋은거 같아서 다시 한 번 듣고싶어서 그래요~</dd>
+                                    </dl>
+
+                                    <dl>
+                                        <dt class="leader">
+                                            <div class="chat_img"><img src="img/list_img.jpg" /></div>
+                                            <span>E-SSam</span>
+                                        </dt>
+                                        <dd>고마워요~ <br />하지만 오늘 중요한 수업인 만큼 집중해서 잘 들으시고~ 재방은 어려워요~ ^^</dd>
+                                    </dl>
+
+                                    <dl>
+                                        <dt>
+                                            <div class="chat_img"><img src="img/list_img01.jpg" /></div>
+                                            <span>유나</span>
+                                        </dt>
+                                        <dd>선생님~~ 방금 말씀하시거 나중에 혹시 재방도 가능하실까요??<br />오늘 수업 너무 좋은거 같아서 다시 한 번 듣고싶어서 그래요~</dd>
+                                    </dl>
+
+                                    <dl>
+                                        <dt class="leader">
+                                            <div class="chat_img"><img src="img/list_img.jpg" /></div>
+                                            <span>E-SSam</span>
+                                        </dt>
+                                        <dd>고마워요~ <br />하지만 오늘 중요한 수업인 만큼 집중해서 잘 들으시고~ 재방은 어려워요~ ^^</dd>
+                                    </dl>
+                                    -->
+                                </div>
+                            </div>
+                            <div class="chat_message">
+                                <div class="c_m_inner">
+									<a href="" target="_blank">첨부파일</a>
+									<div class="areabox">
+										<label></label>
+                                        <input type="text" id ="msg_box" onkeyup="enterkey()" placeholder="보내시려는 대화 메세지를 입력하세요" />
+                                    </div>
+                                    <div class="btnbox">
+                                        <label><input type="button" value="보내기" onclick="send_msg()" /></label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--screen_wrap::E-->
+            </div>
+            <!--main_screen::E-->
+        </div>
+        <!--wrap::E-->
+        <div class="login">
+            <h1>Login</h1>
+            <input type="text" name="userName" id="userName" placeholder="USERNAME"><br>
+            <input type="text" name="userId" id="userId" placeholder="USERID"><br>
+            <input type="text" name="roomId" id="roomId" placeholder="ROOMID"><br>
+            <select id="role">
+                <option value="">role</option>
+                <option value="teacher">Teacher</option>
+                <option value="student">Student</option>
+            </select><br>
+            <input type="button" onclick="register(); return false;" value="start">
+        </div>
+    </body>
+</html>
