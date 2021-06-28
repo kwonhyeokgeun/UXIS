@@ -1,0 +1,87 @@
+@charset "utf-8";
+
+/* 노토산스 */
+@font-face {
+    font-family: 'Noto Sans';
+    font-weight: 200;
+    font-style: normal;
+    src: url('./fonts/NotoSans-Light.eot');
+    src: url('./fonts/NotoSans-Light.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/NotoSans-Light.woff2') format('woff2'),
+         url('./fonts/NotoSans-Light.woff') format('woff'),
+         url('./fonts/NotoSans-Light.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Noto Sans';
+    font-weight: 300;
+    font-style: normal;
+    src: url('./fonts/NotoSans-DemiLight.eot');
+    src: url('./fonts/NotoSans-DemiLight.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/NotoSans-DemiLight.woff2') format('woff2'),
+         url('./fonts/NotoSans-DemiLight.woff') format('woff'),
+         url('./fonts/NotoSans-DemiLight.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Noto Sans';
+    font-weight: 400;
+    font-style: normal;
+    src: url('./fonts/NotoSans-Regular.eot');
+    src: url('./fonts/NotoSans-Regular.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/NotoSans-Regular.woff2') format('woff2'),
+         url('./fonts/NotoSans-Regular.woff') format('woff'),
+         url('./fonts/NotoSans-Regular.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Noto Sans';
+    font-weight: 500;
+    font-style: normal;
+    src: url('./fonts/NotoSans-Medium.eot');
+    src: url('./fonts/NotoSans-Medium.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/NotoSans-Medium.woff2') format('woff2'),
+         url('./fonts/NotoSans-Medium.woff') format('woff'),
+         url('./fonts/NotoSans-Medium.otf') format('opentype');
+}
+
+/* 지마켓산스 */
+@font-face {
+  font-family: 'GmarketSans';
+  src: url('../fonts/GmarketSansLight.woff') format('woff'), 
+    url('../fonts/GmarketSansLight.woff2') format('woff2'); 
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GmarketSans';
+  src: url('../fonts/GmarketSansMedium.woff') format('woff'), 
+    url('../fonts/GmarketSansMedium.woff2') format('woff2'); 
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GmarketSans';
+  src: url('../fonts/GmarketSansMedium.woff') format('woff'), 
+    url('../fonts/GmarketSansMedium.woff2') format('woff2'); 
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GmarketSans';
+  src: url('../fonts/GmarketSansBold.woff') format('woff'), 
+    url('../fonts/GmarketSansBold.woff2') format('woff2'); 
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GmarketSans';
+  src: url('../fonts/GmarketSansBold.woff') format('woff'), 
+    url('../fonts/GmarketSansBold.woff2') format('woff2'); 
+  font-weight: 800;
+  font-style: normal;
+}
