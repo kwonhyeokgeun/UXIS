@@ -5,6 +5,13 @@
 .main_screen {
     width: 100%;
 }
+
+.student_video{
+    position: absolute; top:0; left: 0;
+    width: 100%;
+    height: 100%;
+}
+
 .main_screen .video {
     display: block;
     position: absolute;
